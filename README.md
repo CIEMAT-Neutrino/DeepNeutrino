@@ -7,3 +7,9 @@ Software for Deep Learning and neutrino experiment
 * numpy, obviously.
 * Tensor Flow, for deep learning purposes.
 * Keras, to implement deep learning model relatively fast.
+
+All this code has been developed by Daniel de Andres et al. The folders containing the data can be found in:
+
+/pnfs/ciemat.es/data/neutrinos/WA105/DanielData
+
+/pnfs/ciemat.es/data/neutrinos/WA105/MonteCarloSamples_Daniel
